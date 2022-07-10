@@ -1,2 +1,2 @@
-# Tahmina-s_zoo
-EverUp: Activity 2
+# Tahmina's Zoo
+EverUp: Activity 2 
